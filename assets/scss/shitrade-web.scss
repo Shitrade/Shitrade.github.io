@@ -1,0 +1,95 @@
+@import "shitrade-web/custom/functions";
+@import "shitrade-web/bootstrap/functions";
+
+@import "shitrade-web/custom/variables";
+@import "shitrade-web/bootstrap/variables";
+
+@import "shitrade-web/custom/mixins";
+@import "shitrade-web/bootstrap/mixins";
+
+ // Bootstrap components
+
+@import "shitrade-web/bootstrap/root";
+@import "shitrade-web/bootstrap/reboot";
+@import "shitrade-web/bootstrap/type";
+@import "shitrade-web/bootstrap/images";
+@import "shitrade-web/bootstrap/code";
+@import "shitrade-web/bootstrap/grid";
+@import "shitrade-web/bootstrap/tables";
+@import "shitrade-web/bootstrap/forms";
+@import "shitrade-web/bootstrap/buttons";
+@import "shitrade-web/bootstrap/transitions";
+@import "shitrade-web/bootstrap/dropdown";
+@import "shitrade-web/bootstrap/button-group";
+@import "shitrade-web/bootstrap/input-group";
+@import "shitrade-web/bootstrap/custom-forms";
+@import "shitrade-web/bootstrap/nav";
+@import "shitrade-web/bootstrap/navbar";
+@import "shitrade-web/bootstrap/card";
+@import "shitrade-web/bootstrap/breadcrumb";
+@import "shitrade-web/bootstrap/pagination";
+@import "shitrade-web/bootstrap/badge";
+@import "shitrade-web/bootstrap/jumbotron";
+@import "shitrade-web/bootstrap/alert";
+@import "shitrade-web/bootstrap/progress";
+@import "shitrade-web/bootstrap/media";
+@import "shitrade-web/bootstrap/list-group";
+@import "shitrade-web/bootstrap/close";
+@import "shitrade-web/bootstrap/modal";
+@import "shitrade-web/bootstrap/tooltip";
+@import "shitrade-web/bootstrap/popover";
+@import "shitrade-web/bootstrap/carousel";
+@import "shitrade-web/bootstrap/utilities";
+@import "shitrade-web/bootstrap/print";
+
+ // Custom components
+
+ @import "shitrade-web/custom/alerts.scss";
+ @import "shitrade-web/custom/buttons.scss";
+ @import "shitrade-web/custom/dropdown.scss";
+ @import "shitrade-web/custom/footer.scss";
+ @import "shitrade-web/custom/forms.scss";
+ @import "shitrade-web/custom/images.scss";
+ @import "shitrade-web/custom/modal.scss";
+ @import "shitrade-web/custom/navbar.scss";
+ @import "shitrade-web/custom/type.scss";
+ @import "shitrade-web/custom/icons.scss";
+ @import "shitrade-web/custom/tables";
+ @import "shitrade-web/custom/checkboxes-radio";
+ @import "shitrade-web/custom/fixed-plugin";
+ @import "shitrade-web/custom/pagination.scss";
+ @import "shitrade-web/custom/misc.scss";
+ @import "shitrade-web/custom/rtl.scss";
+ @import "shitrade-web/custom/input-group.scss";
+ @import "shitrade-web/custom/example-pages.scss";
+ @import "shitrade-web/custom/progress.scss";
+ @import "shitrade-web/custom/badge.scss";
+ @import "shitrade-web/custom/pills.scss";
+ @import "shitrade-web/custom/tabs.scss";
+ @import "shitrade-web/custom/info-areas.scss";
+
+// Sections
+@import "shitrade-web/custom/sections.scss";
+
+
+
+ // Vendor / Plugins
+
+@import "shitrade-web/custom/vendor/plugin-perfect-scrollbar.scss";
+@import "shitrade-web/custom/vendor/plugin-animate-bootstrap-notify.scss";
+@import "shitrade-web/custom/vendor/plugin-bootstrap-switch.scss";
+@import "shitrade-web/custom/vendor/plugin-nouislider.scss";
+@import "shitrade-web/custom/vendor/plugin-datetimepicker.scss";
+
+
+// Cards
+
+@import 'shitrade-web/custom/card';
+@import "shitrade-web/custom/cards/card-chart";
+@import "shitrade-web/custom/cards/card-map";
+@import "shitrade-web/custom/cards/card-user";
+@import "shitrade-web/custom/cards/card-task";
+@import "shitrade-web/custom/cards/card-plain";
+@import "shitrade-web/custom/cards/card-register";
+@import "shitrade-web/custom/cards/card-stats";
+@import "shitrade-web/custom/cards/card-chart";
